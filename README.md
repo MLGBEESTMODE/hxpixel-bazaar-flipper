@@ -4,7 +4,7 @@ if you know python you can just do what you want with it
 but if you dont just use the exe file
 to do so in case your new to github click on flipping_tool and click download
 
-or you can learn how to code by following a tutorial https://www.youtube.com/watch?v=rfscVS0vtbw&t=3913s (not that hard)
+or you can learn how to code by following a tutorial https://www.youtube.com/watch?v=rfscVS0vtbw&t=3913s
 
 setting up your setting has to be done manualy every time you start the program up
 
