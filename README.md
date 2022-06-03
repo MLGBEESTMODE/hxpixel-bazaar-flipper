@@ -38,7 +38,7 @@ buy price
 7
 competetivness is the amount of times the top sell and the top buy orders change, so how competitive the market for that item is
 this metric is partly flawed becuse the api gets only refreshed every 0.6sec and players are hella fast, so its recommended to wait 
-atleast 20mins to be able to trust that metric
+atleast 20mins to be able to trust that metric, and even still it might still be misleading like for very competitive items like booster cookies
 
 8
 P/C is the potential profit divided by competitivness, this metric is theroticly the best metric to decide what items to pick
