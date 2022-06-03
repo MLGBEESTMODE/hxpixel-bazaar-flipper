@@ -17,6 +17,7 @@ explenation is in the program
 
 Explenation of all values:
 1
+
 the first number on the right is the amount of money the program thinks you could make by 
 looking ate the average amount of times the item has ben sold or bought in the last week
 and divides that per hour and multiplies that by the current price for selling
